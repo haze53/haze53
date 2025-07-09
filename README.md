@@ -2,5 +2,5 @@
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning HTML/CSS/C++
 - 👨‍💻 I do also FiveM development 
-- 🏢 Conflict Studios / Snowflake 
-
+- 🏢 Conflict Studios / Snowflake
+- 📑Also a Web-Developer
