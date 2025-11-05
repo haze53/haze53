@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @elias
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning HTML/CSS/C++
+- 🌱 I’m currently learning C++
 - 👨‍💻 I do also FiveM development 
-- 🏢 Conflict Studios / Snowflake
+- 🏢 Conflict Studios
 - 📑Also a Web-Developer
