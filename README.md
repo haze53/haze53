@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @elias
-- 🌱 I’m currently learning C++
-- 👨‍💻 I do also FiveM development 
 - 🏢 Conflict Studios
-- 📑Also a Web-Developer
